@@ -1,0 +1,8 @@
+*.caffemodel
+*.tsv
+*.jpg
+/snap
+.idea
+*~
+*.pyc
+
